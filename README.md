@@ -6,13 +6,13 @@
 
 - Publico objetivo 
   
-  Cualquier persona que necesite maquetas, accesorios, bocetos de productos o cualquier otro producto que el cliente desee. El tamaño de los productos se verán limitados por el tamaño de las impresoras
+  Cualquier persona que necesite maquetas, accesorios, bocetos de productos o cualquier otro con con una base, altura y longitud de 100 cm
 
 - Listado de 5 páginas referentes en las que se basa su proyecto
 
 - Listado del grupo con una breve descripción de cada uno
   
-  Ian :
+  Ian : Tengo 22, antes de empezar con el curso en Digital estudiaba Diseño industrial en la UP. Me gusta el lado del hardware de la computacion y ahora interesado en aprender del software.
   
   Julian : 24 años, estudiante de Ciencias de la Atmosfera en la UBA, apasionante del futbol y de la música. Me meti en Digital House para adquirir más conocimientos y entrar en el rubro de IT.
   
